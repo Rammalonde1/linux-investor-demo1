@@ -1,12 +1,19 @@
-[
-  {
-    "title": "Linux Zero to Hero",
-    "description": "A complete journey from beginner to pro.",
-    "details": "linux-basics-1"
-  },
-  {
-    "title": "Investor Portfolio Strategy",
-    "description": "How to build a 'Skillable-style' demo for free.",
-    "details": "portfolio-guide.md"
-  }
-]
+{
+  "items": [
+    {
+      "path": "1-onboarding",
+      "title": "Level 1: Linux Essentials",
+      "description": "Master the command line interface and file manipulation."
+    },
+    {
+      "path": "2-security-ops",
+      "title": "Level 2: Security Operations",
+      "description": "Audit file permissions and secure sensitive data."
+    },
+    {
+      "path": "3-production-outage",
+      "title": "Level 3: Production Outage Scenario",
+      "description": "DIAGNOSTIC CHALLENGE: Fix a broken web server in real-time."
+    }
+  ]
+}
