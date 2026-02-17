@@ -1,0 +1,25 @@
+{
+  "title": "SRE Challenge: Production Outage",
+  "description": "Diagnose and fix a broken Nginx web server.",
+  "difficulty": "Advanced",
+  "time": "20 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Diagnose & Repair",
+        "text": "step1.md",
+        "verify": "verify.sh",
+        "background": "background.sh"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
